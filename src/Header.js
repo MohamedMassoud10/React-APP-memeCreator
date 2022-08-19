@@ -10,7 +10,7 @@ export default function Header() {
                 </div>
             </div>
             <div className="header-title">
-                <h3>React Prctise</h3>
+                <h3>React Practice</h3>
             </div>
         </header>
     )
